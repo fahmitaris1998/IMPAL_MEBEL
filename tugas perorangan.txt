@@ -1,0 +1,29 @@
+M Taris Syahir Zul Fahmi
+- rancangan design UI admin
+- halaman admin tambah barang/mebel
+- halaman admin bank
+- rancangan database
+
+Farhan syahreza putta
+- Registrasi user (MVC)
+- Login User (MVC)
+- Laporan Dupl
+- Laporan User Manual
+
+Moch Ikbal Tawakal
+- tabel data admin
+- tabel data pelanggan
+- tabel ekspedisi
+- tabel transaksi
+
+Candra Nugraha
+HALAMAN USER:
+- front end & back end semua halaman di bagian user, kecuali login dan register 
+
+HALAMAN ADMIN :
+- tabel carausel,
+- tabel masukan user
+
+Sepriano
+- Laporan Dupl
+- Login Admin
